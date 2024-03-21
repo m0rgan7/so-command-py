@@ -57,4 +57,3 @@ commands = [
 for command in commands:
     result = parse_command(command)
     print(f"{command} - {result}")
-
